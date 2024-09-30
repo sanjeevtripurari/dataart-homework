@@ -1,27 +1,31 @@
+# Question 2
+## Generate text:
+* **Write down your main 5-7 takeaways from this course, ask ChatGPT to generate one page instructions**
+* **Provide a ChatGPT sample text paragraph with your own style (informal/formal/etc.)**
+* **Send both the prompt & results**
 
+### Feedback on the Meetup, original text
 
-# Feedback on the Meetup, original text
+* ***Prompt***
 
-Prompt
-```
-AI BootCamp in India - online Meetup
-
-
+> AI BootCamp in India - online Meetup
 This has been fantastic meetup, I never expected such a good training sesssions. I was always eager to learn prompt engineering and LLM, this meetup has shown a direction and setup a path forward. Earlier I just thought just writing 	questions we will get the expected answers from chatgpt, but there is also way how we frame the questions, and it is also important to know that we do not just waste time in having too many vague questions. After all it is system which is answering so if our input is vague and improper, we will expect such response, and it will confuse the system.
 LLM is well engineered, how the language is parsed and tokens are generated with analysis, having semantic relations, and system will generate based on the given input and the large data analysis, is awesome.
 Thanks DataArt for such good sessions, would like to have more sessions, and also know how they are creating products around AI/ML and innovations.
 
+* ***Prompt***
 
-rephrase the above writeup for submitting feedback on the meetup
-```
+> rephrase the above writeup for submitting feedback on the meetup
 
-https://coral.cohere.com/c/74a269f5-e88e-45bf-b983-bb590be74404
+### Response Command R+ 
+* ##### **https://coral.cohere.com/c/74a269f5-e88e-45bf-b983-bb590be74404**
+
 ```
 The AI BootCamp in India online meetup exceeded all expectations, offering an exceptional training experience. As an attendee, I was particularly keen to delve into prompt engineering and Large Language Models (LLMs), and this meetup successfully provided a clear direction and roadmap for further exploration. It highlighted the importance of not only asking questions but also framing them effectively. We learned that vague queries can lead to vague responses, and it is crucial to provide the system with precise and well-structured input to obtain accurate and useful answers.
 
-
 The insights into LLMs were fascinating, especially understanding how these models parse language, generate tokens, establish semantic connections, and produce outputs based on extensive data analysis. DataArt's organization of these sessions was commendable, and I extend my gratitude for such an informative event. I eagerly anticipate future meetups and look forward to gaining insights into DataArt's AI/ML product development processes and innovative endeavors.
 ```
+* ***Prompt***
 > prompt just give 5 take aways
 
 ```
@@ -31,8 +35,12 @@ LLMs' ability to parse language, generate tokens, and establish semantic relatio
 DataArt's training sessions were well-organized and informative.
 Attendees expressed interest in learning about DataArt's AI/ML product development and innovations.
 ```
+* ***Prompt***
 
-https://claude.ai/chat/3e35fa10-e74a-4767-94c7-4cd13333a1aa
+> rephrase the above writeup for submitting feedback on the meetup
+
+### Response Claude 
+* ##### **https://claude.ai/chat/3e35fa10-e74a-4767-94c7-4cd13333a1aa** 
 ```
 Here's a rephrased version of your feedback suitable for submission:
 
@@ -46,9 +54,11 @@ DataArt's sessions were exceptionally informative, and I'm eager to participate 
 
 Thank you, DataArt, for providing such an enriching learning experience. This bootcamp has significantly enhanced my understanding of AI and its practical applications.
 ```
+* ***Prompt***
+> just give 5 take aways from the meetup
 
-> PRompt just give 5 take aways from the meetupEditBased on your feedback, here are 5 key takeaways from the AI BootCamp meetup:
 ```
+Based on your feedback, here are 5 key takeaways from the AI BootCamp meetup:
 The importance of proper prompt engineering when interacting with AI systems like ChatGPT.
 Understanding that vague or poorly framed questions can lead to confusing or unhelpful AI responses.
 Insights into LLM engineering, including language parsing, token generation, and semantic analysis.
@@ -56,8 +66,11 @@ The significance of input quality and how it affects the AI system's output.
 A clearer direction and structured path for further learning in AI, particularly in prompt engineering and LLMs.
 ```
 
+* ***Prompt***
+> rephrase the above writeup for submitting feedback on the meetup
 
-https://gemini.google.com/app/6ea5dac4b3c50395?hl=en-IN
+### Response Gemini 
+* ##### **https://gemini.google.com/app/6ea5dac4b3c50395?hl=en-IN**
 ```
 Improved Feedback:
 
@@ -72,17 +85,21 @@ The insights into LLM architecture and functionality were equally impressive. Le
 I would like to extend my appreciation to DataArt for organizing such a valuable event. I hope to attend more sessions in the future and gain further insights into AI/ML applications and innovations.
 ```
 
-> PRompt just give 5 take aways
-
+* ***Prompt***
+> just give 5 take aways from the meetup
 ```
-
 Importance of Prompt Engineering: Effective prompt framing is crucial for getting accurate and relevant responses from LLMs.
 Avoid Vague Prompts: Clear and specific prompts are essential to prevent confusion and ensure accurate results.
 Understanding LLM Architecture: LLMs parse language, generate tokens, and analyze semantic relationships to produce responses.
 Data-Driven Responses: LLMs generate responses based on the vast amount of data they have been trained on.
 Potential for Innovation: AI/ML has the potential to revolutionize various industries and drive innovation.
 ```
-https://chatgpt.com/
+* ***Prompt***
+
+> rephrase the above writeup for submitting feedback on the meetup
+
+### Response ChatGPT 
+* ##### **https://chatgpt.com/**
 
 ```
 Feedback on AI BootCamp Meetup
@@ -95,11 +112,10 @@ I found it fascinating to learn about how LLMs process language, generate tokens
 Thank you, DataArt, for organizing such informative sessions. I would love to participate in more, particularly to learn about how you are developing AI/ML products and driving innovation in this space.
 ```
 
-> Prompt just give 5 take aways from the meetup
+* ***Prompt***
+> just give 5 take aways from the meetup
 
 ```
-ChatGPT said:
-ChatGPT
 Here are five key takeaways from the AI BootCamp meetup:
 
 Importance of Prompt Engineering: Framing questions effectively is crucial for getting accurate responses from LLMs. Clear and specific prompts lead to better results.
